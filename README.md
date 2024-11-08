@@ -1,1 +1,1 @@
-You are reviewing the profile of the Black smith of fire, a java hobbyist and linux lover.
+You are reviewing the profile of the Black smith , a java hobbyist and linux lover.
