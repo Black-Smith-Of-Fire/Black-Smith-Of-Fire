@@ -5,6 +5,7 @@ Java Developer
 --------------
 
 I am an enthusiastic Java developer who believes in building amazing stuff. My moto "BUILD !!!"
+My goal is to try to create all the software that I rely on. 
 
 * ✉️  You can contact me at [blacksmithoffire@gmail.com](mailto:blacksmithoffire@gmail.com)
 * 🤝  I'm open to collaborating on any interesting projects
