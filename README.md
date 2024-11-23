@@ -1,4 +1,4 @@
-Hi 👋 My name is d'Black Smith
+ 👋 I am d'Black Smith
 ==============================
 
 Java Developer
