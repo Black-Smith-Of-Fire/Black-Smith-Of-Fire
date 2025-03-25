@@ -10,6 +10,7 @@ My goal is to try to create all the software that I rely on.
 
 * ✉️  You can contact me at [blacksmithoffire@gmail.com](mailto:blacksmithoffire@gmail.com)
 * 🤝  I'm open to collaborating on any interesting projects
+* You can reach me on  [click here](www.google.com)
 
 ### Skills
 
