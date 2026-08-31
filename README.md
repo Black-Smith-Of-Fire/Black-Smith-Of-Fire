@@ -1,10 +1,10 @@
  👋 I am d'Black Smith
 ==============================
 
-Java Developer
+Software Developer
 --------------
 
-I am an enthusiastic Java developer who believes in building amazing stuff. My moto "BUILD !!!"
+I am an enthusiastic software developer who believes in building amazing stuff. My moto is "BUILD !!!"
 
 My goal is to try to create all the software that I rely on. 
 
