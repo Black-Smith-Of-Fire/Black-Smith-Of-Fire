@@ -8,7 +8,7 @@ I am an enthusiastic software developer who believes in building amazing stuff. 
 
 My goal is to try to create all the software that I rely on. 
 
-* ✉️  You can contact me at [blacksmithoffire@gmail.com](mailto:blacksmithoffire@gmail.com)
+* ✉️  [portfolio](https://portfolio-alpha-sepia-vgn9c7pik1.vercel.app/)
 * 🤝  I'm open to collaborating on any interesting projects
 * You can reach me on  [linkedin](https://www.linkedin.com/in/benjaminluke03)
 
